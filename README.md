@@ -2,7 +2,7 @@
 ---
 I am a data enthusiast and keen to apply data science to practice. I am also interested to apply BI & Data Analytics to develop the business models with sustainable growth.
 
-- 🔭 I’m currently working on experiments and practices for ETL/ETL workflows with diffrent tech stacks/tools.
+- 🔭 I’m currently working on experiments and practices for ETL/ETL workflows with different tech stacks/tools.
 - 🌱 I’m currently learning how to implement an E2E Machine Learning Project (To-do data science/ML projects: recommender systems, image processing and computer vision)
 
 Some courses I studied:
