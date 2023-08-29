@@ -4,6 +4,7 @@ I am a data enthusiast and keen to apply data science to practice. I am also int
 
 - 🔭 I’m currently working on experiments and practices for ETL/ETL workflows with different tech stacks/tools.
 - 🌱 I’m currently learning how to implement an E2E Machine Learning Project (To-do data science/ML projects: recommender systems, image processing and computer vision)
+- ✨ Future area of ML study: possibly Federated Learning (FL) 🤔 - I first learnt of FL and its potential application in univeristy, FL is quite an interesting area of research, so I might revisit this topic in future 😄.  
 
 Some courses I studied:
 - [dbt Fundamentals](https://credentials.getdbt.com/fafb0f9b-cb65-4167-ac8c-3b247fe7b449#gs.4zd87g)
