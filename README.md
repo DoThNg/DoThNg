@@ -13,3 +13,6 @@ Some courses I studied:
 - [Data Engineer with Python](https://www.datacamp.com/statement-of-accomplishment/track/8f891e83c4fd354ad85ab4f05d7cbc38b60c320c)
 - [Data Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/16a94d90759243958f81cb75835c31cdf04f2747)
 - [MLOps Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/86edc0e032cf61523e2e1455036cffd1854f9229)
+
+The ML course I'm studying:
+[AutoML - Automated Machine Learning](https://ki-campus.org/courses/automl-luh2021)
