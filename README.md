@@ -1,6 +1,6 @@
 ### Hi, I am Do 👋
 ---
-I am a data enthusiast and keen to apply data science to practice. I am also interested to apply BI & Data Analytics to develop the business models with sustainable growth.
+I am a data enthusiast and keen to apply data science to practice. I am also interested to apply MLOps, DataOps and BI & Data Analytics to develop the business models with sustainable growth.
 
 - 🔭 I’m currently working on experiments and practices for ETL/ETL workflows with different tech and data stacks/tools.
 - 🌱 I’m currently learning how to implement E2E Machine Learning (ML) Projects (Data science/ML projects in my to-do list: recommender systems, image processing and computer vision)
